@@ -1,3 +1,4 @@
+
 .row{
 position:relative;
 margin-left:10%;
@@ -8,7 +9,7 @@ margin-right:10%;
 border: 1px solid black;
 width: 10%;
 height: 60px;
-background-color:white;
+background-color:8FBC8F;
 float:left;
 }
 
@@ -16,8 +17,41 @@ float:left;
 border: 1px solid black;
 width: 10%;
 height: 60px;
-background-color:#787878;
+background-color:#2F4F4F;
 float:left;
+}
+#footer {
+ border:solid 1px;
+ padding: 10px;
+ margin:10px;
+}
+#container {
+ margin-top:20%;
+ margin-left:10%;
+ margin-right:10%;
+ margin-bottom:5%;
+}
+#title {
+ font-family: 'JustLettersMedium'; 
+ font-weight: normal; 
+ font-style: normal; 
+ font-size:36px;
+ position:fixed;
+ top:0px;
+ left:0px; 
+ padding:10px;
+ margin:0px;
+ width:100%;
+ background-color:lightyellow;
+ text-align:center; 
+ z-index:10;
+}
+img {
+ margin-left: 5px;
+ margin-top:10px;
+ }
+body {
+ background-image:url("http://3.bp.blogspot.com/-aNRb0w9Uu2E/Uk0w1v9lXjI/AAAAAAAAHrM/RipxfZqlQQ4/s1600/Texture-Backgrounds-Wallpaper-HD.jpg");
 }
 #clear{
 clear:both; 
