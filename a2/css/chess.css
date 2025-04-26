@@ -1,8 +1,9 @@
 .div{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-content: center;
     }
+
 .row{
     position:relative;
     margin-left:10%;
@@ -29,6 +30,8 @@
      padding: 10px;
      margin:10px; 
      text-align:center; 
+    float: none;
+    margin-bottom: 0px;
     }
 #container {
      margin-top:20%;
@@ -47,9 +50,10 @@
      padding:10px;
      margin:0px;
      width:100%;
-     background-color:lightyellow;
+     background-color:8FBC8F;
      text-align:center; 
      z-index:10;
+    float: none;
     }
 img {
      margin-left: 5px;
