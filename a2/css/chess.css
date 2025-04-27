@@ -6,7 +6,6 @@ img {
  margin-left: 5px;
  margin-top:10px;
  margin:auto;
- align-item: center;
  }
 
 .row{
@@ -22,7 +21,7 @@ img {
  border: 1px solid black;
  width: 10%;
  height: 60px;
- background-color:8FBC8F;
+ background-color:darkseagreen;
  float:left;
  display: flex;
  justify-content: center;
@@ -32,7 +31,7 @@ img {
  border: 1px solid black;
  width: 10%;
  height: 60px;
- background-color:#2F4F4F;
+ background-color:darkslategray;
  float:left;
  display: flex;
  justify-content: center;
@@ -45,7 +44,7 @@ img {
  border:solid 1px;
  padding: 10px;
  margin:0px;
- background-color:8FBC8F;
+ background-color:darkseagreen;
  width:100%;
  display: flex;
  justify-content: center;
@@ -66,7 +65,7 @@ img {
  margin-top:50px;
  margin-bottom:50px;
  width:100%;
- background-color:8FBC8F;
+ background-color:darkseagreen;
  text-align:center; 
  z-index:10;
  font-family: 'JustLettersMedium'; 
