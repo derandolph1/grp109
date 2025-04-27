@@ -24,7 +24,8 @@ img {
  height: 60px;
  background-color:8FBC8F;
  float:left;
- align-content: center;
+ display: flex;
+ justify-content: center;
 }
  
 .black{
@@ -33,7 +34,8 @@ img {
  height: 60px;
  background-color:#2F4F4F;
  float:left;
- align-content: center;
+ display: flex;
+ justify-content: center;
 }
 
 #footer {
